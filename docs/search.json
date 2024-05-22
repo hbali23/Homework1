@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "DataScience.html",
+    "href": "DataScience.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "##First Section:"
+  },
+  {
+    "objectID": "DataScience.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "DataScience.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "Data Science",
+    "section": "What do you think being a data scientist is about?",
+    "text": "What do you think being a data scientist is about?\nData scientists use analytical tools and techniques to extract meaningful insights from data. They are responsible for collecting, analyzing and interpreting data to help drive decision-making in an organization."
+  },
+  {
+    "objectID": "DataScience.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "DataScience.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "Data Science",
+    "section": "What differences/similarities do you see between data scientists and statisticians?",
+    "text": "What differences/similarities do you see between data scientists and statisticians?\nData scientists and statisticians both analyze data to extract insights, but data scientists often use a broader range of computational tools and techniques, including machine learning, to handle large and complex datas ets. Statisticians, on the other hand, typically focus more on the mathematical foundations of data analysis and the development of statistical models and theories."
+  },
+  {
+    "objectID": "DataScience.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "href": "DataScience.html#how-do-you-view-yourself-in-relation-to-these-two-areas",
+    "title": "Data Science",
+    "section": "How do you view yourself in relation to these two areas?",
+    "text": "How do you view yourself in relation to these two areas?\nI see myself more as a data scientists than a statistician. Currently, I work as a Model Risk analyst and use tools to extract meaningful insights from data instead of focusing more on the mathematical foundation of data analysis. I can see why a mix of both would be the best alternative and do appreciate both fields.\n##Second section:\n\n\n[1] \"density\"\n\n\n[1] \"list\"\n\n\n\nCall:\n    density.default(x = iris$Sepal.Length)\n\nData: iris$Sepal.Length (150 obs.); Bandwidth 'bw' = 0.2736\n\n       x               y            \n Min.   :3.479   Min.   :0.0001495  \n 1st Qu.:4.790   1st Qu.:0.0341599  \n Median :6.100   Median :0.1534105  \n Mean   :6.100   Mean   :0.1905934  \n 3rd Qu.:7.410   3rd Qu.:0.3792237  \n Max.   :8.721   Max.   :0.3968365"
+  }
+]
