@@ -1,0 +1,31 @@
+---
+title: "Data Science"
+format: html
+editor: visual
+---
+##First Section:
+
+## What do you think being a data scientist is about?
+
+Data scientists use analytical tools and techniques to extract meaningful insights from data. They are responsible for collecting, analyzing and interpreting data to help drive decision-making in an organization.
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+Data scientists and statisticians both analyze data to extract insights, but data scientists often use a broader range of computational tools and techniques, including machine learning, to handle large and complex datas ets. Statisticians, on the other hand, typically focus more on the mathematical foundations of data analysis and the development of statistical models and theories.
+
+## How do you view yourself in relation to these two areas?
+
+I see myself more as a data scientists than a statistician. Currently, I work as a Model Risk analyst and use tools to extract meaningful insights from data instead of focusing more on the mathematical foundation of data analysis. I can see why a mix of both would be the best alternative and do appreciate both fields.
+
+
+##Second section:
+
+```{r}
+#| echo: FALSE
+y <- density(iris$Sepal.Length)
+class(y)
+typeof(y)
+structure(y)
+plot(y)
+
+```
